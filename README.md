@@ -15,7 +15,7 @@ cache = ./npm_cache_mirror
 #### Notes
 
 - If you want to check in this cache (which is somewhat expected) ensure you also check in your `package-lock.json` or `npm-shrinkwrap.json` files to ensure everything gets properly resolved
-- You'll probably want to `.gitignore` your cache's log files but keep the folder to avoid any warnings/errors (ie. `npm_cache_mirror/_logs/*.log`)
+- You'll probably want to `.gitignore` your cache's log files but keep the folder to avoid any warnings/errors (ie. `npm_cache_mirror/_logs/*.log` & `npm_cache_mirror/anonymous-cli-metrics.json`)
 
 #### Demo
 

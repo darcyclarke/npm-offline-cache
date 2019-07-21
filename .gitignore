@@ -1,3 +1,4 @@
 .DS_Store
 node_modules
 npm_cache_mirror/_logs/*.log
+npm_cache_mirror/anonymous-cli-metrics.json
