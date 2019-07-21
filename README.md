@@ -24,4 +24,4 @@ You can test out this method of caching/mirroring deps by:
 - Cloning this repo `git clone git@github.com:darcyclarke/npm-offline-cache.git`
 - Turn off your network connection
 - Install deps `npm install`
-- All deps required to support [rawkit](git@github.com:darcyclarke/npm-offline-cache.git) & [sleepover](https://www.npmjs.com/package/sleepover) should be installed into `node_modules`
+- All deps required to support [rawkit](https://www.npmjs.com/package/rawkit) & [sleepover](https://www.npmjs.com/package/sleepover) should be installed into `node_modules`
