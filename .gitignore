@@ -1,3 +1,3 @@
+.DS_Store
 node_modules
 npm_cache_mirror/_logs/*.log
-.DS_Store
