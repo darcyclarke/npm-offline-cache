@@ -1,5 +1,5 @@
 # npm-offline-cache
-An example of how to set up a project-specific cache/mirror of deps. You can read more about **npm-cache** @ [docs.npmjs.com/cli/cache](https://docs.npmjs.com/cli/cache.html).
+An example of how to set up a **npm** project-specific cache/mirror of deps. This is similar, but different(?), to **yarn**'s [offline mode](https://yarnpkg.com/blog/2016/11/24/offline-mirror/). You can read more about **npm-cache** @ [docs.npmjs.com/cli/cache](https://docs.npmjs.com/cli/cache.html).
 
 #### Steps to generate a project-specific cache
 
