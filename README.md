@@ -1,5 +1,5 @@
 # npm-offline-cache
-An example of how to set up npm to point to a local projects cached/mirrored deps. You can read more about **npm-cache** @ [docs.npmjs.com/cli/cache](https://docs.npmjs.com/cli/cache.html).
+An example of how to set up npm to point to a local project's cached/mirrored deps. You can read more about **npm-cache** @ [docs.npmjs.com/cli/cache](https://docs.npmjs.com/cli/cache.html).
 
 #### Steps to generate a project-specific cache
 
